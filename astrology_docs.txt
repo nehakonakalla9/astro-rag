@@ -1,0 +1,87 @@
+SECTION: House Definitions
+First House through Twelfth House — each house's name, sign, description, and keywords.
+
+First House (House of Self)
+Aries {Vita || Life} - The First House governs self-identity, physical appearance, and the persona—the outward expression of one's inner world. Liz Greene views this house as representing the mask we wear to navigate external life while concealing deeper psychological realities.[17] Deborah Houlding emphasizes its traditional role as the foundation of vitality and character, where the ascendant sign influences temperament and health.[10] Dane Rudhyar describes it as the emergence of consciousness, symbolizing the individual's first interaction with the external world.[18] Stephen Arroyo sees it as the lens through which we approach life's challenges, reflecting our initial reactions and self-image.[7] Keywords: physical appearance, identity and characteristics, resourcefulness, outlook and impressions, ego/personality, goals, determination, beginnings and initiatives.
+
+Second House (House of Value)
+Taurus {Lucrum || Gain} - The Second House relates to personal resources, material possessions, and self-worth. Greene highlights how this house reflects the internalized value system that shapes not just finances but emotional security.[17] Houlding explains its traditional association with wealth and livelihood, focusing on how possessions contribute to stability.[10] Rudhyar interprets the Second House as the process of building personal foundations, emphasizing the individual's relationship with the material world.[18] Arroyo simplifies it as the house of self-sufficiency, showing how one's attitude toward money and possessions reflects broader psychological patterns.[7] Keywords: material and immaterial things of certain value, money, possessions and acquisitions, cultivation, perseverance, substance, self-worth.
+
+Third House (House of Sharing)
+Gemini {Fratres || Brothers} - The Third House governs communication, learning, and relationships with immediate surroundings. Greene emphasizes the development of cognitive skills and how early interactions shape mental patterns.[17] Houlding focuses on its traditional role in local travel, siblings, and the sharing of ideas within communities.[10] Rudhyar views this house as the emergence of the thinking mind, reflecting curiosity and the desire to connect through knowledge.[18] Arroyo describes it as the house of everyday learning and practical communication, governing both casual conversations and intellectual exploration.[7] Keywords: communication, distribution/generosity, intelligence/development, siblings, cousins, locomotion and transportation, ephemera.
+
+Fourth House (House of Home and Family)
+Cancer {Genitor || Parent} - The Fourth House represents home, family, and the emotional roots that provide stability. Greene sees this house as the foundation of the inner self, where unconscious family patterns and childhood experiences shape adult life.[17] Houlding highlights its traditional role as the house of ancestry and heritage, reflecting physical property and familial lineage.[10] Rudhyar interprets it as the inner sanctuary where personal identity is nurtured away from the public eye.[18] Arroyo focuses on the emotional security found in home life and how family relationships influence psychological well-being.[7] Keywords: ancestry, heritage, roots, foundation and environment, mother or caretaker/nurturer, housing/shelter and the household, neighborhood matters, comfort, security/safety, tidiness, pets.
+
+Fifth House (House of Pleasure)
+Leo {Nati || Children} - The Fifth House governs creativity, romance, and self-expression. Greene views this house as the arena for authentic expression, where individuals explore their unique identity through love, art, and play.[17] Houlding emphasizes its traditional association with children, entertainment, and gambling, focusing on risk and pleasure.[10] Rudhyar describes it as the creative impulse that drives individuals to leave a personal mark on the world.[18] Arroyo interprets it as the house of personal fulfillment, where joy, passion, and artistic pursuits thrive.[7] Keywords: recreational and leisure activities, things which make for enjoyment and entertainment, games/gambling/risk, romance and limerence, children/fertility, self-expression.
+
+Sixth House (House of Health and Service)
+Virgo {Valetudo || Health} - The Sixth House relates to health, daily routines, and service to others. Greene highlights this house as the space where individuals balance personal needs with responsibility, integrating work and health into a cohesive routine.[17] Houlding notes its traditional role in governing illness, servitude, and labor, focusing on the obligations that structure daily life.[10] Rudhyar interprets it as the process of self-improvement through discipline and attention to detail.[18] Arroyo views it as the house of practicality, emphasizing wellness, work habits, and self-care.[7] Keywords: routine tasks and duties, skills or training acquired, employment (job), service and being served, strength, vitality, wellness and healthcare.
+
+Seventh House (House of Balance)
+Libra {Uxor || Spouse} - The Seventh House governs relationships, including marriage, business partnerships, and legal contracts. Greene describes it as the mirror of the self, reflecting the qualities we seek—and often project—onto others in close relationships.[17] Houlding emphasizes its traditional role in governing alliances and open enemies, highlighting the balance between cooperation and conflict.[10] Rudhyar sees it as the point where personal identity meets the "Other," symbolizing the evolution of self through meaningful connections.[18] Arroyo interprets it as the house of committed partnerships, emphasizing harmony, negotiation, and balance.[7] Keywords: partnerships, marriage and business matters, diplomacy, agreements, contracts and all things official, equilibrium.
+
+Eighth House (House of Transformation)
+Scorpio {Mors || Death} - The Eighth House is associated with transformation, shared resources, and intimacy. Greene delves into its role in deep psychological transformation, where themes of power, control, and emotional vulnerability surface.[17] Houlding connects it to traditional topics like inheritance, death, and joint finances, emphasizing the merging of resources and identities.[10] Rudhyar interprets it as the house of regeneration, where crisis and rebirth lead to profound growth.[18] Arroyo sees it as a space for emotional depth and intimacy, focusing on the transformative power of close bonds.[7] Keywords: cycles of deaths and rebirth, sexual relationships and commitments of all kinds, joint funds, finances, other person's resource, karma and debt (judgment), regeneration, self-transformation.
+
+Ninth House (House of Purpose)
+Sagittarius {Iter || Journey} - The Ninth House represents higher education, philosophy, and long-distance travel. Greene highlights the house as the realm of the search for meaning, where individuals explore spirituality, culture, and belief systems.[17] Houlding focuses on its traditional role in religion, law, and foreign affairs, emphasizing the expansion of one's worldview.[10] Rudhyar views it as the stage of intellectual and spiritual exploration, where personal experience broadens into universal understanding.[18] Arroyo interprets it as the house of personal growth through exploration, whether intellectual or physical.[7] Keywords: travel and foreign affairs, culture, expansion, law and ethics, education/learning/knowledge, philosophical interests, belief systems, experience through exploration, things long-term.
+
+Tenth House (House of Enterprise)
+Capricorn {Regnum || Kingdom} - The Tenth House governs career, public reputation, and social status. Greene interprets it as the house of external achievement, where societal roles and ambitions are pursued to fulfill personal destiny.[17] Houlding highlights its traditional role in representing authority figures and social standing, often linked to one's professional path.[10] Rudhyar sees it as the culmination of personal development expressed in the public sphere, representing the manifestation of one's life purpose.[18] Arroyo focuses on career aspirations and the drive for success and recognition in the wider world.[7] Keywords: ambitions, motivations, career, achievements, society and government, father or authority, notoriety, advantage.
+
+Eleventh House (House of Blessings)
+Aquarius {Benefacta || Support} - The Eleventh House governs friendships, social networks, and community involvement. Greene describes it as the sphere where individuals pursue collective ideals and engage in group dynamics to realize shared visions.[17] Houlding connects it to traditional associations with hopes, wishes, and alliances, highlighting the importance of social connection.[10] Rudhyar interprets it as the house of future-oriented aspirations and participation in collective movements.[18] Arroyo views it as the space where collaboration and innovation flourish, emphasizing the role of community in personal development.[7] Keywords: benefits from effort, friends and acquaintances of like-minded attitudes, belonging, groups, communities, and associations, charity, connectedness/networking, love, wish fulfillment, wealth.
+
+Twelfth House (House of Sacrifice)
+Pisces {Carcer || Rehabilitation} - The Twelfth House represents the subconscious, spirituality, and hidden aspects of life. Greene emphasizes its role in psychological integration, where unconscious fears and desires are confronted through solitude and introspection.[17] Houlding highlights its traditional association with isolation, secrecy, and institutions like hospitals and monasteries.[10] Rudhyar sees it as the space of transcendence and dissolution, where the ego dissolves into the greater whole.[18] Arroyo interprets it as the house of spiritual growth and introspection, focusing on inner healing and connection to the collective unconscious.[7] Keywords: privacy, refuge; seclusion and retreating, creativity, clandestiny↔revelation, intuition, extremes/abundance, but also addictions, luck, miracles, releasing/relinquishing, healing/cleansing/rejuvenation, forgiveness, peacefulness, and finality/completion/conclusion.
+
+
+
+
+
+SECTION: Vedic House Names
+
+Lagna, Dhan, Parakram, Suhrda, Sut, Ripu/Roga, Kam, Mrtyu, Bhagya, Karm, Aay, Vyay — with their associated meanings.
+
+Lagna - Nature of Native, Appearance, Health, Character, Purpose of Life, behavior,[4] birth,[5] limbs,[6] head[7]
+Dhan - Wealth, Family, Domestic Comforts, Early Education, Inheritance, Speech,[8] moveable assets[9]
+Parakram - Younger Brothers and Sisters, Communication (Talking, Writing, Business Documents),[10] Intelligence, fine arts[11] Short Journeys, "great prowess (physical and mental)," [12] hands, arms, shoulders [13]
+Suhrda - Mother, Emotions, Education, Home, Property and Land, Surrounding in Old Age, vehicles,[14] the chest[15]
+Sut - Children, Lovers, Recreation[16] Devotion,[17] Speculation and Gambling,[18] the belly,[19] accumulated karma[20]
+Ripu/Roga - Diseases,[21] Maternal uncle and aunt, Litigation, Servants, Mental Worries, Enemies, Foreigners, small intestine,[22]
+Kam - Spouse, Business Partner, Death,[23] Respect,[24] passion,[25] groin [26]
+Mrtyu - Death & Longevity, Obstacles,[24] Suffering, Sexual organs and sexual attractiveness,[27] Occult, Dowry, Inheritance, Imprisonment, Excretory organs,[28] accidents[29]
+Bhagya - Father, Luck, Higher learning, Philosophy & Religion, Mentor or Guru, Prosperity, Travel, "deeds of virtue"[30]
+Karm - Profession, Status & fame, Power, Father, Mother-in-law, Government, Clothes,[31] Commerce,[32] knees[33]
+Aay - Friends, Hopes, Earnings, Club or Social Activities, Elder Brothers and Sisters, Daughter/Son-in-law, calves, shins and ankles[34]
+Vyay - Expenses, Sleep (and convalescence), Sexual pleasures,[35] Spirituality, Travel & Pilgrimage, Secret Enemies, Imprisonment, Hospitals, Asylums, Liberation, loss[36] foreign residency,[37] feet[37]
+
+
+
+
+
+SECTION: House Groupings
+Kendra, Trikon, Dusthān, Upachay, Succedent (Pāṇaphara), and Cadent (Āpoklima).
+
+Kendra: the angular houses, that is the first, fourth, seventh and tenth houses. (kendra, from Greek κἐντρα,[38] also describes the relationship between any houses or grahas which are about 90 degrees apart.) These are very strong houses for grahas to occupy.
+Trikon: the houses forming a triangle within the chart with the first house, about 120 degrees apart from one another, that is the first, fifth and ninth. These are the most auspicious houses. (From Greek τρἰγωνα.[38])
+Dusthān: the less fortunate houses which tend to rule unhappy areas. These houses make no clear geometric connection to the Lagna. Dusthanas include the sixth, eighth and twelfth houses.
+Upachay: "growth" or "remedial" houses, where malefic planets tend to improve, include the third, sixth, tenth and eleventh houses.
+Succedent houses are called pāṇaphara (from Greek ἐπαναφοραἱ), and cadent houses are called āpoklima
+
+
+
+SECTION: Purusharthas & House Rounds
+Dharm, Arth, Kam, Moksh, followed by the three rounds:
+Individual (1–4), Other/Relationships (5–8), and Universalization (9–12).
+
+Dharm – 1st, 5th and 9th Bhavas/Houses – The need to find our path and purpose.
+Arth – 2nd, 6th and 10th Bhavas/Houses – The need to acquire the necessary resources and abilities to provide for ourselves to fulfill our path and purpose.
+Kam – 3rd, 7th and 11th Bhavas/Houses – The need for desires and enjoyment.
+Moksh – 4th, 8th and 12th Bhavas/Houses – The need to find liberation and enlightenment from the world.
+
+The first round, bhavs/houses 1 through 4, show the process within the Individual.
+The second round, bhavs/houses 5 through 8, show the alchemy between relating to Other people.
+The third round, bhavs/houses 9 through 12, show the Universalization of the self.
